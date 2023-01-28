@@ -1,0 +1,23 @@
+.Main-SearchComponents{
+  width:100%;
+  height:14vh;
+  display: flex;
+  flex-direction: row;
+  align-items:center;
+  justify-content:space-between;
+  /* align-items:center; */
+  text-align:center;
+  border: 2px solid red;
+  box-sizing: border-box;
+  left: 0;
+  right: inherit;
+  margin: 0;;
+  
+}
+.left_items{
+ display: flex;
+ height: 14vh;
+ align-items:center;
+ justify-content:space-between;
+ 
+}

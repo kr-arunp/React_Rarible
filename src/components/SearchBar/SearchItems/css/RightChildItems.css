@@ -1,0 +1,11 @@
+.RightChildItems{
+    width:35%;
+    height: 14vh;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+    box-sizing: border-box;
+    gap: 1rem;
+    
+}
